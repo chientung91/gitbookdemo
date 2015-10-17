@@ -1,7 +1,8 @@
 {
-    "plugins": [
-        "DISQUS",
-        "disqus"
-    ],
-    "pluginsConfig": {}
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "chientung"
+        }
+    }  
 }
